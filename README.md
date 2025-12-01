@@ -1,8 +1,8 @@
 <h1 align="center">💚 Hi! I'm Grace 💚 </h1>
 <h3 align="center">Cyber & Software Engineer</h3>
 
-🟢 Contact me: **gracebyte.dev@gmail.com**
-🟢 Currently working as a cyber intern with a military contractor. This is my non-professional Github account.
+- Contact me: **gracebyte.dev@gmail.com**
+- Currently working as a cyber intern with a military contractor. This is my non-professional Github account.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
