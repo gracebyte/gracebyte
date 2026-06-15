@@ -1,4 +1,2 @@
-## Proficient in:
-
-Languages: Java, Javascript, Python, HTML/CSS
-DevOps: Kubernetes, ARGO, Docker, Zarf, Ansible, Packer, Backstage, Longhorn, vSphere
+## DevOps and Site Reliability Engineer
+Non-Professional Github
